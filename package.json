@@ -1,0 +1,26 @@
+{
+  "name": "gyeongbuk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infoset8236/gyeongbuk.git"
+  },
+  "keywords": [
+    "ICT"
+  ],
+  "author": "HAPPY GGANG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infoset8236/gyeongbuk/issues"
+  },
+  "homepage": "https://github.com/infoset8236/gyeongbuk#readme",
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "stylelint-config-prettier": "^9.0.5"
+  }
+}

@@ -4,18 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d98d9cc1-74a5-4753-a4df-3cc7af771c71" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/info/horizon/bestBook.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/info/horizon/event.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/info/horizon/facility.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/info/horizon/info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/info/horizon/librarianRecom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/info/horizon/livingInfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/info/horizon/loanReturn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/info/horizon/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/info/horizon/newBook.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/info/horizon/notice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/info/horizon/teach.html" afterDir="false" />
+    <list default="true" id="d98d9cc1-74a5-4753-a4df-3cc7af771c71" name="변경" comment="feat : init project">
+      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/Nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/facility.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/newBook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/notice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/teach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/teachDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/teachEdit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/userNav.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,11 +80,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763370243726</updated>
-      <workItem from="1763370244836" duration="1236000" />
+      <workItem from="1763370244836" duration="2043000" />
     </task>
+    <task id="LOCAL-00001" summary="feat : init project">
+      <option name="closed" value="true" />
+      <created>1763371538760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763371538760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat : init project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : init project" />
   </component>
 </project>

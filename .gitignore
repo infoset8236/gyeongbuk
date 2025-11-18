@@ -27,6 +27,7 @@ build/
 .temp/
 
 # Editor
+.idea/workspace.xml
 .vscode/*
 !.vscode/extensions.json
 !.vscode/settings.json

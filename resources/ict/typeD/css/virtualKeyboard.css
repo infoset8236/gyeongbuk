@@ -1,0 +1,60 @@
+/* virtualKeypad.css (1rem = 32px 기준 변환) */
+.keypad-modal {
+  position: absolute;
+  bottom: 0;
+  left: 0 !important;
+  z-index: 9999;
+  background: #D6D6D6;
+  top: auto !important;
+  padding: 2.5rem 4.21875rem; /* 80px 135px */
+}
+
+#keypadModal button {
+  display: none;
+}
+
+.keypad-table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem; /* 40px */
+}
+
+.keypad-table tr {
+  display: flex;
+  gap: 0.78125rem; /* 25px */
+}
+
+.keypad-table td {
+  display: flex;
+  width: 19.15625rem; /* 613px */
+  height: 7.1875rem; /* 230px */
+  padding: 1.5625rem 0; /* 50px 0 */
+  justify-content: center;
+  align-items: center;
+  color: #121212;
+  text-align: center;
+  font-family: Pretendard-Regular, sans-serif;
+  font-size: 3.125rem; /* 100px */
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.0455rem; /* 1.456px */
+  border-radius: 1.25rem; /* 40px */
+  background: var(--WHITE, #FFF);
+}
+
+.keypad-table td.disabled {
+  background: #D6D6D6;
+}
+
+#keypadOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9998;
+  display: none;
+}

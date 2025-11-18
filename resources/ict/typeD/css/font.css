@@ -1,0 +1,353 @@
+/* Cafe24Classictype */
+@font-face {
+    font-family: 'Cafe24Classictype';
+    src: url('/resources/ict/common/font/Cafe24Classictype-v1.1.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* DINBold */
+@font-face {
+    font-family: DINBold;
+    src: url('/resources/ict/common/font/DINBol.TTF') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* GmarketSan */
+@font-face {
+    font-family: GmarketSansBold;
+    src: url('/resources/ict/common/font/GmarketSansBold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: GmarketSansLight;
+    src: url('/resources/ict/common/font/GmarketSansLight.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: GmarketSansMedium;
+    src: url('/resources/ict/common/font/GmarketSansMedium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Inter */
+@font-face {
+    font-family: InterBold;
+    src: url('/resources/ict/common/font/Inter-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: InterExtraBold;
+    src: url('/resources/ict/common/font/Inter-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: InterExtraLight;
+    src: url('/resources/ict/common/font/Inter-ExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: InterLight;
+    src: url('/resources/ict/common/font/Inter-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: InterMedium;
+    src: url('/resources/ict/common/font/Inter-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: InterRegular;
+    src: url('/resources/ict/common/font/Inter-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: InterSemiBold;
+    src: url('/resources/ict/common/font/Inter-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: InterThin;
+    src: url('/resources/ict/common/font/Inter-Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+
+/* Pretendard */
+@font-face {
+    font-family: PretendardThin;
+    src: url('/resources/ict/common/font/Pretendard-Thin.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PretendardExtraLight;
+    src: url('/resources/ict/common/font/Pretendard-ExtraLight.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PretendardLight;
+    src: url('/resources/ict/common/font/Pretendard-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PretendardRegular;
+    src: url('/resources/ict/common/font/Pretendard-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PretendardMedium;
+    src: url('/resources/ict/common/font/Pretendard-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PretendardSemiBold;
+    src: url('/resources/ict/common/font/Pretendard-SemiBold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PretendardBold;
+    src: url('/resources/ict/common/font/Pretendard-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PretendardExtraBold;
+    src: url('/resources/ict/common/font/Pretendard-ExtraBold.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+/* Roboto */
+@font-face {
+    font-family: RobotoThin;
+    src: url('/resources/ict/common/font/Roboto-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: RobotoLight;
+    src: url('/resources/ict/common/font/Roboto-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: RobotoRegular;
+    src: url('/resources/ict/common/font/Roboto-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: RobotoMedium;
+    src: url('/resources/ict/common/font/Roboto-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: RobotoBold;
+    src: url('/resources/ict/common/font/Roboto-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Roboto Serif */
+@font-face {
+    font-family: RobotoSerifThin;
+    src: url('/resources/ict/common/font/RobotoSerif-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: RobotoSerifExtraLight;
+    src: url('/resources/ict/common/font/RobotoSerif-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: RobotoSerifLight;
+    src: url('/resources/ict/common/font/RobotoSerif-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: RobotoSerifRegular;
+    src: url('/resources/ict/common/font/RobotoSerif-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: RobotoSerifMedium;
+    src: url('/resources/ict/common/font/RobotoSerif-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: RobotoSerifSemiBold;
+    src: url('/resources/ict/common/font/RobotoSerif-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: RobotoSerifBold;
+    src: url('/resources/ict/common/font/RobotoSerif-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: RobotoSerifExtraBold;
+    src: url('/resources/ict/common/font/RobotoSerif-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+/* Oswald */
+@font-face {
+    font-family: OswaldExtraLight;
+    src: url('/resources/ict/common/font/Oswald-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: OswaldLight;
+    src: url('/resources/ict/common/font/Oswald-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: OswaldRegular;
+    src: url('/resources/ict/common/font/Oswald-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: OswaldMedium;
+    src: url('/resources/ict/common/font/Oswald-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: OswaldSemiBold;
+    src: url('/resources/ict/common/font/Oswald-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: OswaldBold;
+    src: url('/resources/ict/common/font/Oswald-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Poltawski Nowy */
+@font-face {
+    font-family: PoltawskiNowyRegular;
+    src: url('/resources/ict/common/font/PoltawskiNowy-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PoltawskiNowyMedium;
+    src: url('/resources/ict/common/font/PoltawskiNowy-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PoltawskiNowyBold;
+    src: url('/resources/ict/common/font/PoltawskiNowy-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PoltawskiNowySemiBold;
+    src: url('/resources/ict/common/font/PoltawskiNowy-SemiBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Smooch Sans */
+@font-face {
+    font-family: SmoochSansLight;
+    src: url('/resources/ict/common/font/SmoochSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: SmoochSansRegular;
+    src: url('/resources/ict/common/font/SmoochSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: SmoochSansBold;
+    src: url('/resources/ict/common/font/SmoochSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PaperlogyMedium;
+    src: url('/resources/ict/common/font/Paperlogy-5Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* 나눔명조 */
+@font-face {
+    font-family: NanumMyeongjo;
+    src: url('/resources/ict/common/font/NanumMyeongjo.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}

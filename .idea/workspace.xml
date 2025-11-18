@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d98d9cc1-74a5-4753-a4df-3cc7af771c71" name="변경" comment="feat : init project">
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/Nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/facility.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/newBook.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/notice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/teach.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/teachDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/teachEdit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/userNav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylelintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/bestBook.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/bestBook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/horizon/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/vertical/bestBook.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/vertical/bestBook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/vertical/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/vertical/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/vertical/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-INF/views/app/ict/typeD/kiosk/vertical/info.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +47,10 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/강윤경/Desktop/workspace/gyeongbuk/WEB-INF/views/app/ict/typeD/mediawall/vertical",
+    "last_opened_file_path": "C:/Users/강윤경/Desktop/workspace/gyeongbuk/WEB-INF/views/app/ict/typeD/kiosk/vertical",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +61,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\강윤경\Desktop\workspace\gyeongbuk\WEB-INF\views\app\ict\typeD\kiosk\vertical" />
       <recent name="C:\Users\강윤경\Desktop\workspace\gyeongbuk\WEB-INF\views\app\ict\typeD\mediawall\vertical" />
       <recent name="C:\Users\강윤경\Desktop\workspace\gyeongbuk\WEB-INF\views\app\ict\typeD\info\vertical" />
       <recent name="C:\Users\강윤경\Desktop\workspace\gyeongbuk\WEB-INF\views\app\ict\typeD\mediawall" />
@@ -80,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763370243726</updated>
-      <workItem from="1763370244836" duration="2043000" />
+      <workItem from="1763370244836" duration="6370000" />
     </task>
     <task id="LOCAL-00001" summary="feat : init project">
       <option name="closed" value="true" />
@@ -90,11 +92,30 @@
       <option name="project" value="LOCAL" />
       <updated>1763371538760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat : init project">
+      <option name="closed" value="true" />
+      <created>1763429798947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763429798947</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat : init project" />

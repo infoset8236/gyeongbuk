@@ -1,0 +1,42 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# dotenv
+.env
+.env.*
+!.env.example
+
+# Logs
+logs
+*.log
+log.*
+logs/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+.cache/
+.temp/
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Others
+coverage/
+package-lock.json
+yarn.lock
